@@ -10,7 +10,6 @@ Features
     Location Search: Search for weather data by city name.
     Responsive Design: The app is fully responsive and works seamlessly on desktops, tablets, and mobile devices.
     Weather Details: Displays temperature, weather conditions, humidity, and wind speed.
-    Background Changes: The background image changes based on the weather conditions (e.g., sunny, cloudy, rainy).
 
 Technologies Used
 
