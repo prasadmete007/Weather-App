@@ -146,6 +146,19 @@ p{
     color: hsl(0, 0%, 0%,0.60);
 }
 
+.visibilityDisplay{
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: hsl(0, 0%, 0%,0.60);
+}
+
+.windDisplay{
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: hsl(0, 0%, 0%,0.60);
+}
 .descDisplay{
     font-style: italic;
     font-weight: bold;
