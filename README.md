@@ -3,7 +3,7 @@ Weather Prediction App
 Welcome to the Weather Prediction App, a simple and intuitive web application that provides real-time weather information using the OpenWeatherMap API. This project showcases the use of HTML, CSS, and JavaScript to create a dynamic and responsive weather application.
 Live Demo
 
-Check out the live demo of the application here.
+Check out the live demo of the application here. https://prasadmete007.github.io/Weather-App/
 Features
 
     Real-time Weather Data: Get up-to-date weather information for any location worldwide.
